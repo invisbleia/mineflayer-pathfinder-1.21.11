@@ -1,5 +1,5 @@
 {
-  "name": "mineflayer-pathfinder-1.21.11",
+  "name": "notaina-pathfinder",
   "version": "1.0.0",
   "description": "Custom pathfinder patch for Mineflayer matching Minecraft version 1.21.11",
   "main": "index.js",
